@@ -6,3 +6,8 @@ Project: Etch-a-sketch (Odin Project)
 - When square is hovered over, change the color, leaving a trail
 - Add a button asking for user to input grid dimensions
     - Maximum of 100
+
+Future implementations:
+- Add rainbow colored trail
+- Buttons to choose color
+- Erase canvas button
