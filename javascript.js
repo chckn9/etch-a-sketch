@@ -12,3 +12,12 @@ function createCanvas() {
         container.appendChild(square);
     }
 }
+
+createCanvas();
+
+const squares = document.querySelectorAll('.square');
+squares.forEach(square => {
+    square.addEventListener('mouseover', function() {
+        square.classList.add("hovered");
+    })
+})

@@ -18,6 +18,10 @@ html, body {
   margin-top: 20%;
 }
 
+.hovered {
+  background-color: red;
+}
+
 .footer {
   text-align: center;
   margin-top: auto;
